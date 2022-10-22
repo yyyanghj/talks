@@ -6,8 +6,7 @@ highlighter: shiki
 lineNumbers: false
 info: |
   # 写给大家看的 λ 演算
-  See https://yhj.me <br/>
-  杨虹剑
+  https://yhj.me/posts/introduction-to-lambda-calculus <br/>
 
 drawings:
   persist: false
