@@ -1,0 +1,28 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyyanghj/talks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyyanghj/talks/issues"
+  },
+  "homepage": "https://github.com/yyyanghj/talks#readme",
+  "dependencies": {
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.36.6"
+  }
+}

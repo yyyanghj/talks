@@ -1,0 +1,34 @@
+
+.slidev-layout p {
+  /* width: 75%; */
+  line-height: 32px;
+}
+
+.slidev-layout h1 + p {
+  opacity: 0.8;
+}
+
+html.dark {
+  --prism-background: #2c2c2c;
+}
+
+html:not(.dark) {
+  --prism-background: #f2f2f2;
+}
+
+.dark #slide-content {
+  background: #080808;
+}
+
+iframe {
+  min-height: 400px;
+}
+
+.col-right {
+  padding: 50px 16px 0;
+}
+
+.slidev-page-2.col-left {
+  display: flex;
+  flex-direction: column;
+}

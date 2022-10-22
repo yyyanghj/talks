@@ -1,0 +1,13 @@
+{
+  "name": "lambda-calculus",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.0.6",
+    "vue": "^3.2.41"
+  }
+}
