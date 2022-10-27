@@ -3,6 +3,10 @@
     {
       "source": "/lambda-calculus/:path*",
       "destination": "https://lambda-calculus-talk.vercel.app/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
