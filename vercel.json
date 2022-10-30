@@ -5,7 +5,7 @@
       "destination": "https://lambda-calculus-talk.vercel.app/:path*"
     },
     {
-      "source": "/(.*)",
+      "source": "/",
       "destination": "/index.html"
     }
   ]
