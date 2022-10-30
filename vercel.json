@@ -1,8 +1,9 @@
 {
+  "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/lambda-calculus/:path*",
-      "destination": "https://lambda-calculus-talk.vercel.app/:path*"
+      "source": "/lambda-calculus/:match*",
+      "destination": "https://lambda-calculus-talk.vercel.app/:match*"
     },
     {
       "source": "/",
